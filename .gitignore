@@ -1,0 +1,11 @@
+
+# Dependency directories
+node_modules/
+formulario_validacion/
+informacion/
+# Ignora los archivos 
+.env
+nota_git.txt
+
+
+
